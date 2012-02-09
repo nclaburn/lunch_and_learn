@@ -54,3 +54,9 @@ A simple guide to git.
 
 ###[GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
 This article documents GitHub's workflow. Simple, powerful, useful.
+
+###[Git for ages 4 and up](http://2010.osdc.com.au/proposal/196/git-ages-4-and)
+This video was captured at the Open Source Developer's Conference.
+
+###[Gitcasts](http://gitcasts.com/)
+Like Vimcasts and Railscasts, Gitcasts is video tutorials on using git.
