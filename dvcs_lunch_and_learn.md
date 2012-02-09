@@ -43,6 +43,9 @@ Mercuria's answer to GitHub.
 ###[Git Website](http://git-scm.com/)
 Definitive source for all things git.
 
+###[Pro Git](http://progit.org/book/)
+It's the most reference book on git that I've found. Oh, and it's free 
+
 ###[Think like a Git](http://think-like-a-git.net/epic.html)
 This is a great tutorial on Git. It really helps the reader to understand commits, branching, merging and the repository.
 
