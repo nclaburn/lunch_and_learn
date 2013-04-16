@@ -37,7 +37,7 @@ Downloads, documentations, tutorials.
 Documentation and tutorials on Mercurial workflows.
 
 ###[BitBucket](http://www.bitbucket.org)
-Mercuria's answer to GitHub.
+Mercurial's answer to GitHub.
 
 ##Git
 ###[Git Website](http://git-scm.com/)
